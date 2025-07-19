@@ -44,11 +44,12 @@ The dashboard provides a clear, user friendly interface for analyzing sales data
 
 ## Insights & Outcomes
 
-- Revenue trends show monthly variability, with identifiable peak seasons. The highest total revenue was recorded in **May and June**, indicating strong mid-year performance.
-- **Thursdays and Fridays** had the highest number of transactions, indicating busy end-of-week activity.
-- The majority of transactions occurred in the **morning hours (7 AM–10 AM)**, aligning with typical coffee consumption habits.
-- **Coffee** dominated all product categories in terms of transaction volume, indicating it is the core driver of customer purchases and potentially a key revenue stream for the business. This suggests that coffee-related promotions, loyalty programs, or bundling strategies (e.g., coffee + pastry) could significantly enhance overall sales performance.
-**Tip:** Use the slicers in the dashboard to explore how insights change across different locations, product types, or time ranges.
+- Revenue trends show monthly variability, with identifiable peak seasons particularly in **May and June**, which recorded the highest total revenue presenting an opportunity to launch seasonal promotions, product bundles, or loyalty incentives to boost sales and customer retention during this high-demand period.
+- **Thursdays and Fridays** recorded the highest number of transactions, indicating busy end-of-week activity. This presents an ideal window to introduce end-of-week specials, happy hour discounts, or targeted marketing campaigns aimed at increasing average transaction value during these high-traffic days.
+- The majority of transactions occurred in the **morning hours (7AM – 10AM)**, aligning with typical coffee consumption habits. This highlights the need to optimize morning operations by ensuring full staff availability, quick service, and product readiness. Additionally, implementing morning-exclusive promotions such as breakfast combos or time-sensitive discounts can help drive even more sales.
+- **Coffee** dominated all product categories in terms of transaction volume, indicating it is the core driver of customer purchases and potentially a key revenue stream for the business. To leverage this, consider introducing coffee-centric loyalty programs, cross-selling with complementary items such as pastries, and testing premium options like specialty brews or seasonal flavors to boost transaction value and strengthen brand differentiation.
+
+**Tip:** Use the slicers in the dashboard to explore how insights change across different locations.
 
 ## Tools Used
 
@@ -62,5 +63,6 @@ The dashboard provides a clear, user friendly interface for analyzing sales data
 - Data Cleaning & Preprocessing
 - Time and Category-Based Sales Analysis
 - Dashboard Design in Excel
+- Exploratory Data Analysis
 - Data Visualization
 - Business Insight Extraction
