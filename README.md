@@ -1,4 +1,5 @@
 # Coffee_Shop_Sales_Analysis
+![Dashboard Screenshot](https://github.com/JessicaOfoma/Coffee_Shop_Sales_Analysis/blob/main/dashboard.JPG?raw=true)
 ## Overview
 
 This project analyzes sales transactions from a coffee shop using Microsoft Excel. The objective was to uncover trends in customer behavior, product performance, and time-based sales patterns, and to present those insights through a dynamic, easy to use dashboard.
