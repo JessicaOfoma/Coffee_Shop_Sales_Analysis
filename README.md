@@ -1,4 +1,4 @@
-# Coffee_Shop_Sales_Analysis
+# Coffee Shop Sales Analysis
 ![Dashboard Screenshot](https://github.com/JessicaOfoma/Coffee_Shop_Sales_Analysis/blob/main/dashboard.JPG?raw=true)
 ## Overview
 
